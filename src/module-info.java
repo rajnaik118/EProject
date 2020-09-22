@@ -1,9 +1,2 @@
-/**
- * 
- */
-/**
- * @author hp
- *
- */
 module EProject {
 }
